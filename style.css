@@ -5,5 +5,12 @@
 
 .projectLabel h3 {
 	text-transform: uppercase;
-	color: red;
+	
+}
+
+.lineBreak {
+	background-color: #7d97ad;
+	height: 3px;
+	margin-top: 25px;
+	margin-bottom: 25px;
 }
