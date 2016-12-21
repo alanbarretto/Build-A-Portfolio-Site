@@ -3,6 +3,11 @@
 	font-weight: 100;
 }
 
+.pageTitle h1 {
+	font-weight: 100;
+	font-size: 4em;
+}
+
 .projectLabel h3 {
 	text-transform: uppercase;
 	
@@ -17,4 +22,5 @@
 
 .featured {
 	color: #7d97ad;
+	font-weight: 400;
 }
