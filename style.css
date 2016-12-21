@@ -1,6 +1,5 @@
 * {
 	font-family: "Work Sans", sans-serif;
-	font-weight: 100;
 }
 
 .pageTitle h1 {
@@ -23,4 +22,8 @@
 .featured {
 	color: #7d97ad;
 	font-weight: 400;
+}
+
+#logo {
+	margin-top: 40px;
 }
