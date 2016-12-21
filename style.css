@@ -5,6 +5,11 @@
 .pageTitle h1 {
 	font-weight: 100;
 	font-size: 4em;
+	margin-bottom: 5px;
+}
+
+.pageTitle p {
+	font-size: 18px;
 }
 
 .projectLabel h3 {
