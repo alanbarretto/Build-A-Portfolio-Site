@@ -3,7 +3,7 @@
 }
 
 .pageTitle h1 {
-	font-weight: 100;
+	font-weight: 200;
 	font-size: 4em;
 	margin-bottom: 5px;
 }
@@ -13,8 +13,7 @@
 }
 
 .projectLabel h3 {
-	text-transform: uppercase;
-	
+	text-transform: uppercase;	
 }
 
 .lineBreak {
@@ -31,12 +30,19 @@
 
 #logo {
 	margin-top: 40px;
-	max-width: 100px;
 	max-height: 100px;
 }
 
 @media screen and (max-width: 991px){
+
+	/* Make Featured Work Images fill 100% of screen in smaller screen size */
+	
 	.workImage img{
 		width: 100%;
+	}
+	/* Make logo slightly larger in smaller screen size */
+	
+	#logo {
+		max-height: 150px;
 	}
 }
